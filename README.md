@@ -223,17 +223,34 @@ npm run dev                     # starts dev server on http://localhost:5173
 
 ## Screenshots
 
-> Add screenshots of your running application here. Recommended captures:
->
-> 1. **Landing page** — upload area with sample file download buttons
-> 2. **Column mapping** — data preview table and dropdown selectors
-> 3. **Overview tab** — metrics row, amount distribution, risk breakdown charts
-> 4. **AI Report tab** — generated narrative with executive summary
-> 5. **Fraud Detection tab** — flagged transactions table with risk badges
-> 6. **Anomaly Clusters tab** — DBSCAN scatter plot with cluster coloring
-> 7. **Account Profiles tab** — risk score distribution and sortable profile table
-> 8. **Network Graph tab** — force-directed account↔merchant visualization
-> 9. **Dark mode** — any tab in dark theme
+
+> <img width="2559" height="1141" alt="image" src="https://github.com/user-attachments/assets/1e61f264-8d28-4b3e-b600-52d303810f72" />
+  <img width="2559" height="1109" alt="image" src="https://github.com/user-attachments/assets/ac5177cf-d869-49b9-a175-3d9f49c30178" />
+  <img width="2559" height="1211" alt="image" src="https://github.com/user-attachments/assets/1dba4f82-54ff-4d11-abcd-278ea3695962" />
+  <img width="2559" height="1422" alt="image" src="https://github.com/user-attachments/assets/c5aa5902-a1a6-4354-a4f0-83fe21d20f1f" />
+  <img width="2559" height="1324" alt="image" src="https://github.com/user-attachments/assets/1dd842ca-b2f9-489b-bea5-ea7dd84b8627" />
+  <img width="2551" height="1342" alt="image" src="https://github.com/user-attachments/assets/4a41f0c9-3c6f-43b6-ab52-395eed0ff270" />
+  <img width="2559" height="1349" alt="image" src="https://github.com/user-attachments/assets/5cf0b447-386a-4b2b-b66b-df3e33c4a48f" />
+  <img width="2387" height="1206" alt="image" src="https://github.com/user-attachments/assets/c8fe01f1-0dec-430b-9c52-4c3d29c5d046" />
+  <img width="2329" height="1341" alt="image" src="https://github.com/user-attachments/assets/c69dbbf5-bebe-444d-aabe-27a96c0604d1" />
+  <img width="2261" height="929" alt="image" src="https://github.com/user-attachments/assets/3e681b4f-7a45-4b40-9bc5-91997cf46283" />
+  <img width="2383" height="1369" alt="image" src="https://github.com/user-attachments/assets/832e6524-0210-4239-9e5a-cd41cba659b5" />
+  <img width="1886" height="1206" alt="image" src="https://github.com/user-attachments/assets/bb04acf8-0fff-4f94-9076-30640a98a262" />
+  <img width="1032" height="960" alt="image" src="https://github.com/user-attachments/assets/156bcf2d-c0b6-4899-abf9-7a17d57c2715" />
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
 >
 > Place images in a `screenshots/` folder and reference them like:
 > ```
