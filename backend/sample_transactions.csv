@@ -1,0 +1,501 @@
+transaction_id,date,account_id,amount,type,merchant,description
+TXN-000001,2025-01-01 04:00:00,ACC-0006,19.54,purchase,Shell Gas,Wire transfer
+TXN-000002,2025-01-03 16:00:00,ACC-0020,20.12,withdrawal,Whole Foods,Peer transfer
+TXN-000003,2025-01-05 02:00:00,ACC-0013,54.05,deposit,Costco,Refund processed
+TXN-000004,2025-01-07 10:00:00,ACC-0020,43.33,withdrawal,Whole Foods,Wire transfer
+TXN-000005,2025-01-07 17:00:00,ACC-0016,46.34,transfer,Amazon,Wire transfer
+TXN-000006,2025-01-08 21:00:00,ACC-0018,22.84,purchase,Whole Foods,In-store purchase
+TXN-000007,2025-01-08 22:00:00,ACC-0010,46.89,payment,Best Buy,In-store purchase
+TXN-000008,2025-01-09 05:00:00,ACC-0008,11.78,deposit,Uber,Wire transfer
+TXN-000009,2025-01-09 10:00:00,ACC-0018,195.57,purchase,Costco,Subscription
+TXN-000010,2025-01-09 14:00:00,ACC-0001,271.99,payment,Best Buy,Peer transfer
+TXN-000011,2025-01-10 09:00:00,ACC-0008,9519.99,withdrawal,Shell Gas,Refund processed
+TXN-000012,2025-01-11 22:00:00,ACC-0006,18.86,withdrawal,DoorDash,Wire transfer
+TXN-000013,2025-01-13 13:00:00,ACC-0005,10.23,deposit,Apple Store,Bill payment
+TXN-000014,2025-01-17 07:00:00,ACC-0015,24.86,refund,Home Depot,Peer transfer
+TXN-000015,2025-01-17 11:00:00,ACC-0015,6.54,withdrawal,CVS Pharmacy,In-store purchase
+TXN-000016,2025-01-18 04:00:00,ACC-0002,9.54,purchase,Uber,Bill payment
+TXN-000017,2025-01-18 09:00:00,ACC-0001,19.84,purchase,CVS Pharmacy,In-store purchase
+TXN-000018,2025-01-20 10:00:00,ACC-0011,41.89,payment,Whole Foods,In-store purchase
+TXN-000019,2025-01-21 22:00:00,ACC-0010,4.82,purchase,Unknown Vendor,Peer transfer
+TXN-000020,2025-01-22 08:00:00,ACC-0018,12.83,purchase,Uber,In-store purchase
+TXN-000021,2025-01-23 09:00:00,ACC-0018,8.01,transfer,Amazon,Cash deposit
+TXN-000022,2025-01-24 07:00:00,ACC-0017,45.63,transfer,Unknown Vendor,Online purchase
+TXN-000023,2025-01-24 17:00:00,ACC-0008,13.18,withdrawal,Starbucks,Cash deposit
+TXN-000024,2025-01-24 22:00:00,ACC-0015,34.32,payment,Walmart,Online purchase
+TXN-000025,2025-01-25 04:00:00,ACC-0008,5.38,purchase,Walmart,In-store purchase
+TXN-000026,2025-01-26 06:00:00,ACC-0017,76.74,purchase,Walmart,Refund processed
+TXN-000027,2025-01-27 11:00:00,ACC-0012,49.34,purchase,Starbucks,Refund processed
+TXN-000028,2025-01-28 11:00:00,ACC-0008,114.23,refund,CVS Pharmacy,Online purchase
+TXN-000029,2025-01-28 15:00:00,ACC-0014,71.26,withdrawal,Amazon,Bill payment
+TXN-000030,2025-01-30 02:00:00,ACC-0004,11.82,purchase,Unknown Vendor,Peer transfer
+TXN-000031,2025-01-30 02:00:00,ACC-0001,58.84,refund,Starbucks,In-store purchase
+TXN-000032,2025-01-30 03:00:00,ACC-0001,30.59,refund,Walmart,Peer transfer
+TXN-000033,2025-01-30 21:00:00,ACC-0019,4.29,refund,Shell Gas,Cash deposit
+TXN-000034,2025-01-31 08:00:00,ACC-0016,83.52,payment,Target,Refund processed
+TXN-000035,2025-01-31 08:00:00,ACC-0014,17.83,purchase,Unknown Vendor,Subscription
+TXN-000036,2025-02-02 01:00:00,ACC-0016,11.19,deposit,Costco,Cash deposit
+TXN-000037,2025-02-02 07:00:00,ACC-0005,66.15,transfer,DoorDash,Cash deposit
+TXN-000038,2025-02-02 16:00:00,ACC-0009,136.34,refund,Starbucks,Online purchase
+TXN-000039,2025-02-04 09:00:00,ACC-0002,10839.58,deposit,Amazon,ATM withdrawal
+TXN-000040,2025-02-04 14:00:00,ACC-0018,117.26,deposit,Amazon,Cash deposit
+TXN-000041,2025-02-05 11:00:00,ACC-0006,1.71,withdrawal,Costco,In-store purchase
+TXN-000042,2025-02-05 13:00:00,ACC-0009,24.56,purchase,Best Buy,Wire transfer
+TXN-000043,2025-02-05 14:00:00,ACC-0001,23.98,transfer,Target,Wire transfer
+TXN-000044,2025-02-05 20:00:00,ACC-0009,43.94,payment,Unknown Vendor,In-store purchase
+TXN-000045,2025-02-05 23:00:00,ACC-0016,75.02,payment,Apple Store,ATM withdrawal
+TXN-000046,2025-02-06 12:00:00,ACC-0013,9.88,purchase,Uber,ATM withdrawal
+TXN-000047,2025-02-06 14:00:00,ACC-0009,11.27,purchase,Walmart,Online purchase
+TXN-000048,2025-02-09 17:00:00,ACC-0013,101.78,purchase,Unknown Vendor,Refund processed
+TXN-000049,2025-02-09 20:00:00,ACC-0009,25.4,deposit,Whole Foods,Peer transfer
+TXN-000050,2025-02-10 20:00:00,ACC-0011,179.69,refund,Apple Store,ATM withdrawal
+TXN-000051,2025-02-11 11:00:00,ACC-0004,13.98,purchase,Best Buy,Subscription
+TXN-000052,2025-02-12 08:00:00,ACC-0002,7.16,transfer,Walmart,Online purchase
+TXN-000053,2025-02-12 13:00:00,ACC-0006,41.26,refund,Target,Bill payment
+TXN-000054,2025-02-12 20:00:00,ACC-0014,21367.87,deposit,Home Depot,Online purchase
+TXN-000055,2025-02-13 13:00:00,ACC-0004,19.3,transfer,Whole Foods,Cash deposit
+TXN-000056,2025-02-14 03:00:00,ACC-0006,69.35,withdrawal,Best Buy,Peer transfer
+TXN-000057,2025-02-14 04:00:00,ACC-0019,14.24,transfer,CVS Pharmacy,Bill payment
+TXN-000058,2025-02-14 06:00:00,ACC-0006,53.63,purchase,Walmart,Bill payment
+TXN-000059,2025-02-14 10:00:00,ACC-0002,16.27,withdrawal,Target,Subscription
+TXN-000060,2025-02-14 13:00:00,ACC-0018,7.64,withdrawal,Netflix,Subscription
+TXN-000061,2025-02-15 01:00:00,ACC-0013,29.12,refund,Apple Store,Subscription
+TXN-000062,2025-02-16 18:00:00,ACC-0009,23.42,withdrawal,Apple Store,Online purchase
+TXN-000063,2025-02-17 20:00:00,ACC-0019,5.62,deposit,Uber,Peer transfer
+TXN-000064,2025-02-17 22:00:00,ACC-0013,72.62,purchase,Costco,Online purchase
+TXN-000065,2025-02-18 02:00:00,ACC-0011,21.43,transfer,Target,Wire transfer
+TXN-000066,2025-02-18 15:00:00,ACC-0001,24149.34,purchase,Starbucks,Cash deposit
+TXN-000067,2025-02-19 08:00:00,ACC-0007,6.3,purchase,Netflix,Cash deposit
+TXN-000068,2025-02-19 08:00:00,ACC-0015,11.79,deposit,Home Depot,Subscription
+TXN-000069,2025-02-19 15:00:00,ACC-0001,6.01,payment,Shell Gas,Wire transfer
+TXN-000070,2025-02-20 18:00:00,ACC-0012,7.87,purchase,Walmart,ATM withdrawal
+TXN-000071,2025-02-22 19:00:00,ACC-0007,5.25,transfer,Whole Foods,ATM withdrawal
+TXN-000072,2025-02-23 19:00:00,ACC-0015,220.41,refund,Netflix,Subscription
+TXN-000073,2025-02-24 10:00:00,ACC-0019,16.57,purchase,Target,Online purchase
+TXN-000074,2025-02-26 21:00:00,ACC-0001,43.86,withdrawal,CVS Pharmacy,Subscription
+TXN-000075,2025-02-26 21:00:00,ACC-0017,13.19,deposit,DoorDash,Refund processed
+TXN-000076,2025-02-28 17:00:00,ACC-0017,26.53,withdrawal,Walmart,Bill payment
+TXN-000077,2025-03-03 20:00:00,ACC-0003,38.05,purchase,Amazon,Cash deposit
+TXN-000078,2025-03-04 07:00:00,ACC-0012,9.92,purchase,Apple Store,ATM withdrawal
+TXN-000079,2025-03-05 16:00:00,ACC-0006,40.99,deposit,CVS Pharmacy,In-store purchase
+TXN-000080,2025-03-06 04:00:00,ACC-0011,7.04,withdrawal,Costco,ATM withdrawal
+TXN-000081,2025-03-06 06:00:00,ACC-0003,4.47,purchase,Target,Cash deposit
+TXN-000082,2025-03-07 11:00:00,ACC-0008,107.69,deposit,Home Depot,Bill payment
+TXN-000083,2025-03-08 01:00:00,ACC-0014,13.84,purchase,Amazon,Cash deposit
+TXN-000084,2025-03-10 04:00:00,ACC-0014,213.02,deposit,Uber,In-store purchase
+TXN-000085,2025-03-10 16:00:00,ACC-0010,11.58,purchase,Whole Foods,Subscription
+TXN-000086,2025-03-11 07:00:00,ACC-0002,212.85,payment,Unknown Vendor,Wire transfer
+TXN-000087,2025-03-11 08:00:00,ACC-0014,171.12,purchase,Best Buy,In-store purchase
+TXN-000088,2025-03-11 22:00:00,ACC-0009,3.51,purchase,Shell Gas,Cash deposit
+TXN-000089,2025-03-11 23:00:00,ACC-0003,95.39,purchase,Shell Gas,Cash deposit
+TXN-000090,2025-03-12 05:00:00,ACC-0008,17.87,purchase,CVS Pharmacy,Refund processed
+TXN-000091,2025-03-12 06:00:00,ACC-0016,65.08,refund,Amazon,Refund processed
+TXN-000092,2025-03-12 07:00:00,ACC-0002,187.99,payment,Unknown Vendor,Peer transfer
+TXN-000093,2025-03-12 13:00:00,ACC-0006,20.0,purchase,Unknown Vendor,Refund processed
+TXN-000094,2025-03-12 13:00:00,ACC-0012,8.58,transfer,Apple Store,Online purchase
+TXN-000095,2025-03-13 03:00:00,ACC-0005,17.96,deposit,Uber,Wire transfer
+TXN-000096,2025-03-14 06:00:00,ACC-0002,10.27,refund,DoorDash,Bill payment
+TXN-000097,2025-03-15 05:00:00,ACC-0016,115.01,withdrawal,Apple Store,In-store purchase
+TXN-000098,2025-03-17 02:00:00,ACC-0005,111.86,purchase,Netflix,Cash deposit
+TXN-000099,2025-03-17 16:00:00,ACC-0015,68.53,transfer,Costco,Peer transfer
+TXN-000100,2025-03-18 17:00:00,ACC-0012,170.76,withdrawal,Shell Gas,Peer transfer
+TXN-000101,2025-03-18 19:00:00,ACC-0004,16.57,purchase,Netflix,Bill payment
+TXN-000102,2025-03-19 05:00:00,ACC-0015,33.67,withdrawal,Home Depot,Wire transfer
+TXN-000103,2025-03-20 23:00:00,ACC-0011,4.51,purchase,Walmart,In-store purchase
+TXN-000104,2025-03-21 03:00:00,ACC-0016,11710.32,deposit,Starbucks,ATM withdrawal
+TXN-000105,2025-03-22 10:00:00,ACC-0006,16.13,purchase,Target,Refund processed
+TXN-000106,2025-03-22 11:00:00,ACC-0014,4.35,withdrawal,Whole Foods,Subscription
+TXN-000107,2025-03-23 15:00:00,ACC-0018,153.43,transfer,Uber,Peer transfer
+TXN-000108,2025-03-24 18:00:00,ACC-0012,13.38,withdrawal,Apple Store,Refund processed
+TXN-000109,2025-03-25 06:00:00,ACC-0011,31.58,purchase,Shell Gas,Refund processed
+TXN-000110,2025-03-26 11:00:00,ACC-0013,17.62,withdrawal,Netflix,Online purchase
+TXN-000111,2025-03-27 07:00:00,ACC-0011,4.51,withdrawal,Best Buy,Wire transfer
+TXN-000112,2025-03-27 09:00:00,ACC-0016,82.14,withdrawal,CVS Pharmacy,Subscription
+TXN-000113,2025-03-27 22:00:00,ACC-0015,25.95,withdrawal,Costco,ATM withdrawal
+TXN-000114,2025-03-28 18:00:00,ACC-0015,168.47,withdrawal,Costco,Cash deposit
+TXN-000115,2025-03-31 05:00:00,ACC-0004,123.1,refund,Walmart,Online purchase
+TXN-000116,2025-03-31 07:00:00,ACC-0011,24.61,purchase,Target,Refund processed
+TXN-000117,2025-03-31 20:00:00,ACC-0019,77.72,refund,Target,Refund processed
+TXN-000118,2025-04-02 16:00:00,ACC-0015,15.15,transfer,Costco,Subscription
+TXN-000119,2025-04-02 21:00:00,ACC-0004,12.79,purchase,Costco,Subscription
+TXN-000120,2025-04-04 23:00:00,ACC-0013,277.26,purchase,Unknown Vendor,Subscription
+TXN-000121,2025-04-07 23:00:00,ACC-0019,42.0,purchase,Apple Store,Refund processed
+TXN-000122,2025-04-07 23:00:00,ACC-0002,9.04,deposit,Unknown Vendor,Peer transfer
+TXN-000123,2025-04-09 16:00:00,ACC-0014,36.55,deposit,Uber,In-store purchase
+TXN-000124,2025-04-10 09:00:00,ACC-0004,38.67,deposit,DoorDash,Refund processed
+TXN-000125,2025-04-12 03:00:00,ACC-0016,69.74,transfer,Home Depot,Online purchase
+TXN-000126,2025-04-12 09:00:00,ACC-0020,5.03,transfer,Best Buy,Wire transfer
+TXN-000127,2025-04-13 06:00:00,ACC-0014,4.25,purchase,Home Depot,ATM withdrawal
+TXN-000128,2025-04-14 07:00:00,ACC-0015,23.97,purchase,Apple Store,Cash deposit
+TXN-000129,2025-04-14 17:00:00,ACC-0003,31.84,transfer,Netflix,ATM withdrawal
+TXN-000130,2025-04-14 19:00:00,ACC-0008,20.87,purchase,Starbucks,Refund processed
+TXN-000131,2025-04-15 06:00:00,ACC-0016,49.02,purchase,Costco,Online purchase
+TXN-000132,2025-04-15 08:00:00,ACC-0010,53.16,withdrawal,Amazon,Refund processed
+TXN-000133,2025-04-15 15:00:00,ACC-0004,166.42,deposit,DoorDash,Wire transfer
+TXN-000134,2025-04-16 19:00:00,ACC-0018,2.59,payment,Uber,Peer transfer
+TXN-000135,2025-04-17 13:00:00,ACC-0002,1332.29,payment,Walmart,Cash deposit
+TXN-000136,2025-04-17 14:00:00,ACC-0017,3.64,withdrawal,DoorDash,Wire transfer
+TXN-000137,2025-04-18 00:00:00,ACC-0013,9.05,transfer,Costco,Refund processed
+TXN-000138,2025-04-19 20:00:00,ACC-0004,779.66,withdrawal,Shell Gas,Online purchase
+TXN-000139,2025-04-22 17:00:00,ACC-0011,29.76,deposit,Uber,Wire transfer
+TXN-000140,2025-04-23 05:00:00,ACC-0007,56.44,purchase,Starbucks,Bill payment
+TXN-000141,2025-04-23 07:00:00,ACC-0012,18.67,transfer,Shell Gas,Online purchase
+TXN-000142,2025-04-24 19:00:00,ACC-0010,59.76,refund,DoorDash,Peer transfer
+TXN-000143,2025-04-24 21:00:00,ACC-0007,28.86,purchase,Amazon,Refund processed
+TXN-000144,2025-04-24 22:00:00,ACC-0013,24.82,withdrawal,Amazon,Subscription
+TXN-000145,2025-04-25 02:00:00,ACC-0007,4.89,withdrawal,Unknown Vendor,Cash deposit
+TXN-000146,2025-04-25 08:00:00,ACC-0017,6.12,purchase,Starbucks,In-store purchase
+TXN-000147,2025-04-25 11:00:00,ACC-0010,130.65,purchase,Target,Subscription
+TXN-000148,2025-04-26 22:00:00,ACC-0010,10.72,purchase,Whole Foods,Refund processed
+TXN-000149,2025-04-27 02:00:00,ACC-0004,33.32,purchase,Best Buy,Bill payment
+TXN-000150,2025-04-27 06:00:00,ACC-0020,7.0,purchase,Costco,Subscription
+TXN-000151,2025-04-27 22:00:00,ACC-0004,23.87,refund,Walmart,Cash deposit
+TXN-000152,2025-04-28 03:00:00,ACC-0007,10.94,purchase,Costco,Online purchase
+TXN-000153,2025-04-29 06:00:00,ACC-0001,6.67,transfer,Target,Bill payment
+TXN-000154,2025-04-29 07:00:00,ACC-0012,250.78,purchase,Home Depot,Bill payment
+TXN-000155,2025-04-29 17:00:00,ACC-0013,102.1,payment,Unknown Vendor,Wire transfer
+TXN-000156,2025-04-30 13:00:00,ACC-0010,200.9,purchase,Unknown Vendor,Cash deposit
+TXN-000157,2025-05-02 07:00:00,ACC-0015,41.92,transfer,Home Depot,Subscription
+TXN-000158,2025-05-02 10:00:00,ACC-0013,208.36,refund,CVS Pharmacy,Wire transfer
+TXN-000159,2025-05-03 03:00:00,ACC-0009,78.73,refund,Home Depot,Bill payment
+TXN-000160,2025-05-03 22:00:00,ACC-0009,35.08,purchase,Amazon,Wire transfer
+TXN-000161,2025-05-04 09:00:00,ACC-0015,9.83,refund,Amazon,ATM withdrawal
+TXN-000162,2025-05-04 15:00:00,ACC-0010,18.64,transfer,Netflix,Cash deposit
+TXN-000163,2025-05-04 23:00:00,ACC-0010,37.31,transfer,Shell Gas,Peer transfer
+TXN-000164,2025-05-05 00:00:00,ACC-0008,36.74,purchase,DoorDash,Online purchase
+TXN-000165,2025-05-06 05:00:00,ACC-0016,31.03,purchase,Walmart,Bill payment
+TXN-000166,2025-05-06 09:00:00,ACC-0017,36.16,deposit,Starbucks,Cash deposit
+TXN-000167,2025-05-08 03:00:00,ACC-0005,41.34,transfer,DoorDash,Peer transfer
+TXN-000168,2025-05-09 01:00:00,ACC-0004,126.91,transfer,Costco,Peer transfer
+TXN-000169,2025-05-10 03:00:00,ACC-0018,21.12,deposit,Netflix,Refund processed
+TXN-000170,2025-05-10 08:00:00,ACC-0019,201.3,deposit,Amazon,Wire transfer
+TXN-000171,2025-05-10 12:00:00,ACC-0004,238.4,purchase,Unknown Vendor,Peer transfer
+TXN-000172,2025-05-11 04:00:00,ACC-0007,17.04,withdrawal,Starbucks,ATM withdrawal
+TXN-000173,2025-05-12 03:00:00,ACC-0010,76.36,purchase,Amazon,Cash deposit
+TXN-000174,2025-05-12 08:00:00,ACC-0018,245.38,deposit,Whole Foods,In-store purchase
+TXN-000175,2025-05-12 13:00:00,ACC-0019,26.46,withdrawal,Walmart,In-store purchase
+TXN-000176,2025-05-13 02:00:00,ACC-0004,22.13,payment,Shell Gas,Bill payment
+TXN-000177,2025-05-13 02:00:00,ACC-0010,6.57,purchase,CVS Pharmacy,Wire transfer
+TXN-000178,2025-05-16 02:00:00,ACC-0001,316.85,purchase,DoorDash,Peer transfer
+TXN-000179,2025-05-17 03:00:00,ACC-0018,131.52,purchase,DoorDash,Cash deposit
+TXN-000180,2025-05-18 16:00:00,ACC-0005,1.38,purchase,Home Depot,Bill payment
+TXN-000181,2025-05-19 15:00:00,ACC-0015,19.98,purchase,Target,Subscription
+TXN-000182,2025-05-20 07:00:00,ACC-0017,12.73,payment,Home Depot,Peer transfer
+TXN-000183,2025-05-20 18:00:00,ACC-0003,392.64,purchase,Whole Foods,Wire transfer
+TXN-000184,2025-05-21 13:00:00,ACC-0012,27.33,purchase,Starbucks,In-store purchase
+TXN-000185,2025-05-22 01:00:00,ACC-0002,18427.99,deposit,Best Buy,Refund processed
+TXN-000186,2025-05-22 10:00:00,ACC-0001,14.08,transfer,Home Depot,Cash deposit
+TXN-000187,2025-05-23 12:00:00,ACC-0017,42.49,deposit,CVS Pharmacy,Online purchase
+TXN-000188,2025-05-24 04:00:00,ACC-0016,5.57,purchase,Netflix,Bill payment
+TXN-000189,2025-05-24 08:00:00,ACC-0005,104.19,transfer,Home Depot,Cash deposit
+TXN-000190,2025-05-24 12:00:00,ACC-0015,4.24,purchase,Home Depot,Cash deposit
+TXN-000191,2025-05-24 14:00:00,ACC-0003,81.59,purchase,Best Buy,ATM withdrawal
+TXN-000192,2025-05-27 02:00:00,ACC-0007,69.2,payment,Target,Subscription
+TXN-000193,2025-05-27 06:00:00,ACC-0011,60.63,purchase,Walmart,Peer transfer
+TXN-000194,2025-05-29 04:00:00,ACC-0010,32.8,transfer,Netflix,Peer transfer
+TXN-000195,2025-05-29 09:00:00,ACC-0009,16.59,transfer,Home Depot,Wire transfer
+TXN-000196,2025-05-30 05:00:00,ACC-0014,43.32,purchase,Whole Foods,Online purchase
+TXN-000197,2025-06-01 03:00:00,ACC-0013,16.86,refund,Unknown Vendor,Online purchase
+TXN-000198,2025-06-01 12:00:00,ACC-0002,51.7,purchase,Shell Gas,Wire transfer
+TXN-000199,2025-06-03 00:00:00,ACC-0003,11.94,withdrawal,CVS Pharmacy,Refund processed
+TXN-000200,2025-06-04 00:00:00,ACC-0007,8.54,payment,Best Buy,Peer transfer
+TXN-000201,2025-06-06 04:00:00,ACC-0018,30.72,withdrawal,Shell Gas,Refund processed
+TXN-000202,2025-06-06 19:00:00,ACC-0003,26.35,payment,Best Buy,Cash deposit
+TXN-000203,2025-06-06 22:00:00,ACC-0010,327.44,purchase,Whole Foods,Cash deposit
+TXN-000204,2025-06-07 01:00:00,ACC-0007,42.81,transfer,Shell Gas,In-store purchase
+TXN-000205,2025-06-10 00:00:00,ACC-0009,29.49,purchase,Best Buy,Online purchase
+TXN-000206,2025-06-10 03:00:00,ACC-0017,522.53,deposit,Costco,In-store purchase
+TXN-000207,2025-06-10 14:00:00,ACC-0011,39.66,payment,Shell Gas,Subscription
+TXN-000208,2025-06-10 23:00:00,ACC-0007,122.71,purchase,Target,Wire transfer
+TXN-000209,2025-06-12 02:00:00,ACC-0014,96.31,withdrawal,Uber,Wire transfer
+TXN-000210,2025-06-13 01:00:00,ACC-0019,25.63,purchase,Netflix,Cash deposit
+TXN-000211,2025-06-14 07:00:00,ACC-0004,6.92,withdrawal,Starbucks,Peer transfer
+TXN-000212,2025-06-15 14:00:00,ACC-0006,49.42,transfer,Walmart,Refund processed
+TXN-000213,2025-06-16 03:00:00,ACC-0010,61.63,payment,Costco,Online purchase
+TXN-000214,2025-06-16 16:00:00,ACC-0007,16.04,withdrawal,Apple Store,In-store purchase
+TXN-000215,2025-06-17 06:00:00,ACC-0013,35.1,purchase,Amazon,Refund processed
+TXN-000216,2025-06-19 05:00:00,ACC-0014,22945.01,purchase,Whole Foods,In-store purchase
+TXN-000217,2025-06-19 14:00:00,ACC-0004,5.45,purchase,Whole Foods,Subscription
+TXN-000218,2025-06-19 23:00:00,ACC-0008,78.34,purchase,Home Depot,Subscription
+TXN-000219,2025-06-21 03:00:00,ACC-0005,19.4,purchase,Unknown Vendor,Refund processed
+TXN-000220,2025-06-22 14:00:00,ACC-0001,75.43,refund,CVS Pharmacy,Refund processed
+TXN-000221,2025-06-22 18:00:00,ACC-0004,49.66,withdrawal,Starbucks,Refund processed
+TXN-000222,2025-06-23 19:00:00,ACC-0003,30.93,transfer,Amazon,In-store purchase
+TXN-000223,2025-06-24 23:00:00,ACC-0009,117.19,purchase,Whole Foods,ATM withdrawal
+TXN-000224,2025-06-25 18:00:00,ACC-0008,17.52,refund,Netflix,Refund processed
+TXN-000225,2025-06-27 01:00:00,ACC-0001,106.26,deposit,Starbucks,Peer transfer
+TXN-000226,2025-06-28 10:00:00,ACC-0006,224.04,purchase,Shell Gas,Online purchase
+TXN-000227,2025-06-29 01:00:00,ACC-0009,103.6,deposit,Shell Gas,Online purchase
+TXN-000228,2025-06-30 10:00:00,ACC-0007,94.02,transfer,Apple Store,In-store purchase
+TXN-000229,2025-07-01 16:00:00,ACC-0004,4.7,purchase,Amazon,Refund processed
+TXN-000230,2025-07-02 12:00:00,ACC-0013,9.99,transfer,Whole Foods,Cash deposit
+TXN-000231,2025-07-02 21:00:00,ACC-0017,44.61,transfer,Walmart,Wire transfer
+TXN-000232,2025-07-03 21:00:00,ACC-0002,42.27,purchase,Whole Foods,ATM withdrawal
+TXN-000233,2025-07-04 10:00:00,ACC-0005,244.34,payment,Netflix,Peer transfer
+TXN-000234,2025-07-04 17:00:00,ACC-0012,9.29,refund,Shell Gas,Cash deposit
+TXN-000235,2025-07-05 12:00:00,ACC-0008,16.6,withdrawal,Home Depot,Subscription
+TXN-000236,2025-07-06 01:00:00,ACC-0006,139.97,transfer,Uber,Cash deposit
+TXN-000237,2025-07-07 00:00:00,ACC-0008,40.65,transfer,Target,In-store purchase
+TXN-000238,2025-07-07 03:00:00,ACC-0018,48.78,withdrawal,Target,ATM withdrawal
+TXN-000239,2025-07-07 04:00:00,ACC-0003,12.55,transfer,Best Buy,Bill payment
+TXN-000240,2025-07-07 05:00:00,ACC-0012,23.61,purchase,Walmart,Bill payment
+TXN-000241,2025-07-07 07:00:00,ACC-0003,2.77,transfer,Whole Foods,Refund processed
+TXN-000242,2025-07-07 08:00:00,ACC-0006,19.08,refund,Target,Refund processed
+TXN-000243,2025-07-07 11:00:00,ACC-0002,9.56,transfer,Best Buy,In-store purchase
+TXN-000244,2025-07-09 12:00:00,ACC-0012,124.46,purchase,Amazon,Refund processed
+TXN-000245,2025-07-09 19:00:00,ACC-0002,52.08,deposit,Shell Gas,Wire transfer
+TXN-000246,2025-07-09 19:00:00,ACC-0006,30.98,purchase,CVS Pharmacy,ATM withdrawal
+TXN-000247,2025-07-12 03:00:00,ACC-0017,20.46,purchase,Unknown Vendor,In-store purchase
+TXN-000248,2025-07-13 04:00:00,ACC-0003,253.6,purchase,Costco,Online purchase
+TXN-000249,2025-07-13 10:00:00,ACC-0002,10.95,purchase,Shell Gas,Subscription
+TXN-000250,2025-07-14 02:00:00,ACC-0020,18.45,deposit,Costco,In-store purchase
+TXN-000251,2025-07-17 01:00:00,ACC-0008,134.47,transfer,Home Depot,In-store purchase
+TXN-000252,2025-07-17 07:00:00,ACC-0012,8.59,purchase,Uber,Bill payment
+TXN-000253,2025-07-17 08:00:00,ACC-0004,15.24,refund,Starbucks,Peer transfer
+TXN-000254,2025-07-17 09:00:00,ACC-0005,10.1,refund,Target,Peer transfer
+TXN-000255,2025-07-18 00:00:00,ACC-0013,36.19,refund,Amazon,Wire transfer
+TXN-000256,2025-07-19 01:00:00,ACC-0015,304.52,purchase,Costco,Online purchase
+TXN-000257,2025-07-19 04:00:00,ACC-0016,28.94,transfer,Unknown Vendor,Bill payment
+TXN-000258,2025-07-21 22:00:00,ACC-0010,399.61,payment,DoorDash,Online purchase
+TXN-000259,2025-07-22 11:00:00,ACC-0016,11.14,deposit,Whole Foods,Wire transfer
+TXN-000260,2025-07-22 21:00:00,ACC-0012,68.9,purchase,Target,Peer transfer
+TXN-000261,2025-07-23 15:00:00,ACC-0017,2.33,purchase,Whole Foods,In-store purchase
+TXN-000262,2025-07-23 21:00:00,ACC-0016,24.66,transfer,Unknown Vendor,Refund processed
+TXN-000263,2025-07-24 15:00:00,ACC-0012,17.22,payment,Walmart,Refund processed
+TXN-000264,2025-07-25 11:00:00,ACC-0008,21.47,transfer,Home Depot,Cash deposit
+TXN-000265,2025-07-26 02:00:00,ACC-0020,100.63,transfer,Starbucks,Subscription
+TXN-000266,2025-07-27 00:00:00,ACC-0003,77.42,purchase,Target,Wire transfer
+TXN-000267,2025-07-27 05:00:00,ACC-0016,7.12,withdrawal,Whole Foods,Subscription
+TXN-000268,2025-07-27 12:00:00,ACC-0013,60.2,refund,Amazon,Subscription
+TXN-000269,2025-07-30 11:00:00,ACC-0019,4.29,purchase,Target,Peer transfer
+TXN-000270,2025-07-30 12:00:00,ACC-0008,66.19,deposit,Costco,Peer transfer
+TXN-000271,2025-07-30 16:00:00,ACC-0005,168.11,payment,Walmart,In-store purchase
+TXN-000272,2025-07-31 09:00:00,ACC-0020,63.56,purchase,DoorDash,Bill payment
+TXN-000273,2025-08-01 00:00:00,ACC-0008,726.35,transfer,Netflix,Peer transfer
+TXN-000274,2025-08-01 16:00:00,ACC-0012,15.61,purchase,Apple Store,Refund processed
+TXN-000275,2025-08-02 04:00:00,ACC-0001,9.94,deposit,DoorDash,Subscription
+TXN-000276,2025-08-02 22:00:00,ACC-0020,52.5,withdrawal,Best Buy,Cash deposit
+TXN-000277,2025-08-04 01:00:00,ACC-0006,11.32,withdrawal,Target,ATM withdrawal
+TXN-000278,2025-08-04 12:00:00,ACC-0018,113.86,deposit,Shell Gas,Wire transfer
+TXN-000279,2025-08-04 17:00:00,ACC-0008,24060.44,purchase,Uber,Cash deposit
+TXN-000280,2025-08-05 04:00:00,ACC-0007,1.3,payment,Shell Gas,Refund processed
+TXN-000281,2025-08-05 07:00:00,ACC-0001,20.2,transfer,DoorDash,Peer transfer
+TXN-000282,2025-08-06 14:00:00,ACC-0016,35.55,purchase,Costco,Bill payment
+TXN-000283,2025-08-07 00:00:00,ACC-0012,58.31,withdrawal,Shell Gas,In-store purchase
+TXN-000284,2025-08-07 05:00:00,ACC-0006,8.54,deposit,Amazon,ATM withdrawal
+TXN-000285,2025-08-07 17:00:00,ACC-0020,28.48,purchase,Shell Gas,Online purchase
+TXN-000286,2025-08-08 02:00:00,ACC-0002,35.41,refund,Starbucks,Cash deposit
+TXN-000287,2025-08-08 20:00:00,ACC-0014,100.37,payment,Netflix,Bill payment
+TXN-000288,2025-08-09 13:00:00,ACC-0004,12.22,purchase,Target,Online purchase
+TXN-000289,2025-08-10 01:00:00,ACC-0001,29.06,payment,Unknown Vendor,ATM withdrawal
+TXN-000290,2025-08-10 07:00:00,ACC-0018,31.84,purchase,Home Depot,Wire transfer
+TXN-000291,2025-08-10 11:00:00,ACC-0013,54.39,purchase,Shell Gas,Wire transfer
+TXN-000292,2025-08-11 06:00:00,ACC-0002,41.43,purchase,Walmart,Subscription
+TXN-000293,2025-08-13 11:00:00,ACC-0009,15.9,refund,Home Depot,ATM withdrawal
+TXN-000294,2025-08-13 14:00:00,ACC-0002,714.87,withdrawal,Netflix,ATM withdrawal
+TXN-000295,2025-08-13 17:00:00,ACC-0009,37.23,purchase,Whole Foods,Online purchase
+TXN-000296,2025-08-14 23:00:00,ACC-0001,34.17,transfer,Unknown Vendor,Bill payment
+TXN-000297,2025-08-15 18:00:00,ACC-0011,505.14,withdrawal,Costco,Online purchase
+TXN-000298,2025-08-16 02:00:00,ACC-0003,30.44,purchase,Netflix,In-store purchase
+TXN-000299,2025-08-16 15:00:00,ACC-0020,438.7,refund,Shell Gas,Wire transfer
+TXN-000300,2025-08-17 14:00:00,ACC-0004,121.14,refund,Netflix,Wire transfer
+TXN-000301,2025-08-17 14:00:00,ACC-0018,2.87,transfer,Home Depot,Subscription
+TXN-000302,2025-08-19 10:00:00,ACC-0006,7.38,payment,Uber,In-store purchase
+TXN-000303,2025-08-19 14:00:00,ACC-0003,48.11,transfer,Costco,Wire transfer
+TXN-000304,2025-08-19 15:00:00,ACC-0011,4.55,payment,Shell Gas,Online purchase
+TXN-000305,2025-08-19 16:00:00,ACC-0015,24.56,withdrawal,Amazon,In-store purchase
+TXN-000306,2025-08-19 19:00:00,ACC-0005,15.17,withdrawal,DoorDash,Online purchase
+TXN-000307,2025-08-19 21:00:00,ACC-0020,27.85,purchase,Starbucks,Wire transfer
+TXN-000308,2025-08-21 07:00:00,ACC-0010,58.98,refund,Apple Store,Wire transfer
+TXN-000309,2025-08-21 10:00:00,ACC-0012,37.98,transfer,CVS Pharmacy,Bill payment
+TXN-000310,2025-08-21 20:00:00,ACC-0015,118.93,purchase,Best Buy,Cash deposit
+TXN-000311,2025-08-22 00:00:00,ACC-0017,194.5,purchase,Costco,Cash deposit
+TXN-000312,2025-08-22 00:00:00,ACC-0010,21.95,withdrawal,Netflix,Subscription
+TXN-000313,2025-08-22 04:00:00,ACC-0006,30.29,transfer,Amazon,Online purchase
+TXN-000314,2025-08-22 08:00:00,ACC-0018,104.7,deposit,Target,Online purchase
+TXN-000315,2025-08-23 02:00:00,ACC-0013,69.92,refund,Target,Refund processed
+TXN-000316,2025-08-23 09:00:00,ACC-0003,10.4,purchase,Best Buy,In-store purchase
+TXN-000317,2025-08-24 04:00:00,ACC-0010,10.52,deposit,Costco,Peer transfer
+TXN-000318,2025-08-25 11:00:00,ACC-0014,12.09,purchase,Costco,Cash deposit
+TXN-000319,2025-08-26 03:00:00,ACC-0006,55.45,refund,Starbucks,Wire transfer
+TXN-000320,2025-08-26 11:00:00,ACC-0003,50.25,refund,Netflix,Subscription
+TXN-000321,2025-08-27 14:00:00,ACC-0016,22.85,transfer,Unknown Vendor,Peer transfer
+TXN-000322,2025-08-27 20:00:00,ACC-0007,69.84,deposit,Uber,ATM withdrawal
+TXN-000323,2025-08-27 22:00:00,ACC-0020,31.18,purchase,Best Buy,Subscription
+TXN-000324,2025-08-28 09:00:00,ACC-0014,27.47,transfer,Starbucks,ATM withdrawal
+TXN-000325,2025-08-28 23:00:00,ACC-0009,27.4,refund,Netflix,ATM withdrawal
+TXN-000326,2025-08-30 07:00:00,ACC-0015,14.95,transfer,Home Depot,ATM withdrawal
+TXN-000327,2025-08-30 17:00:00,ACC-0003,34.26,purchase,Amazon,Bill payment
+TXN-000328,2025-09-01 22:00:00,ACC-0002,79.12,transfer,CVS Pharmacy,Bill payment
+TXN-000329,2025-09-01 23:00:00,ACC-0002,8.78,refund,DoorDash,Bill payment
+TXN-000330,2025-09-02 08:00:00,ACC-0003,19.71,purchase,Uber,Peer transfer
+TXN-000331,2025-09-02 22:00:00,ACC-0018,19.02,purchase,Unknown Vendor,Subscription
+TXN-000332,2025-09-03 01:00:00,ACC-0014,13.1,deposit,Home Depot,Subscription
+TXN-000333,2025-09-03 12:00:00,ACC-0020,90.27,refund,Home Depot,Wire transfer
+TXN-000334,2025-09-03 15:00:00,ACC-0018,21.41,purchase,Apple Store,Bill payment
+TXN-000335,2025-09-04 11:00:00,ACC-0010,14.22,purchase,Target,Wire transfer
+TXN-000336,2025-09-04 13:00:00,ACC-0002,16.57,purchase,Walmart,In-store purchase
+TXN-000337,2025-09-04 15:00:00,ACC-0001,2.87,purchase,Amazon,Wire transfer
+TXN-000338,2025-09-05 21:00:00,ACC-0004,2.75,transfer,Target,Peer transfer
+TXN-000339,2025-09-07 01:00:00,ACC-0014,11.85,deposit,Shell Gas,Cash deposit
+TXN-000340,2025-09-07 10:00:00,ACC-0001,186.77,withdrawal,CVS Pharmacy,ATM withdrawal
+TXN-000341,2025-09-07 12:00:00,ACC-0014,17.93,withdrawal,Home Depot,Bill payment
+TXN-000342,2025-09-08 02:00:00,ACC-0016,291.47,purchase,Walmart,Cash deposit
+TXN-000343,2025-09-08 15:00:00,ACC-0014,21.72,refund,Costco,Wire transfer
+TXN-000344,2025-09-08 19:00:00,ACC-0020,17.65,transfer,Target,ATM withdrawal
+TXN-000345,2025-09-12 06:00:00,ACC-0003,27.91,payment,Unknown Vendor,Subscription
+TXN-000346,2025-09-15 04:00:00,ACC-0003,24.39,withdrawal,Unknown Vendor,Online purchase
+TXN-000347,2025-09-15 16:00:00,ACC-0009,2.72,purchase,Unknown Vendor,ATM withdrawal
+TXN-000348,2025-09-16 05:00:00,ACC-0006,31.65,withdrawal,Starbucks,Peer transfer
+TXN-000349,2025-09-17 19:00:00,ACC-0013,272.17,purchase,Uber,Peer transfer
+TXN-000350,2025-09-19 01:00:00,ACC-0002,21.21,withdrawal,Whole Foods,Wire transfer
+TXN-000351,2025-09-19 14:00:00,ACC-0008,45.81,purchase,Target,In-store purchase
+TXN-000352,2025-09-19 23:00:00,ACC-0002,133.11,purchase,Unknown Vendor,Peer transfer
+TXN-000353,2025-09-19 23:00:00,ACC-0004,37.16,refund,Apple Store,Peer transfer
+TXN-000354,2025-09-20 05:00:00,ACC-0015,33.86,purchase,DoorDash,Wire transfer
+TXN-000355,2025-09-20 07:00:00,ACC-0004,75.81,refund,Starbucks,ATM withdrawal
+TXN-000356,2025-09-20 15:00:00,ACC-0013,49.71,purchase,Whole Foods,In-store purchase
+TXN-000357,2025-09-21 01:00:00,ACC-0012,349.91,withdrawal,Amazon,Cash deposit
+TXN-000358,2025-09-21 19:00:00,ACC-0013,13.01,withdrawal,Amazon,Online purchase
+TXN-000359,2025-09-23 14:00:00,ACC-0014,298.2,transfer,Amazon,Bill payment
+TXN-000360,2025-09-24 12:00:00,ACC-0020,61.76,purchase,Amazon,Subscription
+TXN-000361,2025-09-25 12:00:00,ACC-0018,38.34,purchase,DoorDash,Peer transfer
+TXN-000362,2025-09-26 07:00:00,ACC-0006,24.25,purchase,Target,Wire transfer
+TXN-000363,2025-09-27 01:00:00,ACC-0011,12.27,purchase,Unknown Vendor,Bill payment
+TXN-000364,2025-09-28 04:00:00,ACC-0002,71.84,withdrawal,Netflix,Subscription
+TXN-000365,2025-09-30 00:00:00,ACC-0019,44.94,payment,Target,Subscription
+TXN-000366,2025-09-30 13:00:00,ACC-0019,314.87,refund,Home Depot,Cash deposit
+TXN-000367,2025-09-30 18:00:00,ACC-0005,10.24,deposit,Shell Gas,Cash deposit
+TXN-000368,2025-10-02 09:00:00,ACC-0019,4.01,deposit,Whole Foods,Cash deposit
+TXN-000369,2025-10-03 14:00:00,ACC-0002,49.9,withdrawal,Unknown Vendor,Refund processed
+TXN-000370,2025-10-03 16:00:00,ACC-0010,18.46,purchase,CVS Pharmacy,Refund processed
+TXN-000371,2025-10-03 17:00:00,ACC-0002,106.39,payment,Whole Foods,Subscription
+TXN-000372,2025-10-05 07:00:00,ACC-0011,43.23,withdrawal,Unknown Vendor,Cash deposit
+TXN-000373,2025-10-05 17:00:00,ACC-0018,34.1,withdrawal,Uber,Peer transfer
+TXN-000374,2025-10-05 20:00:00,ACC-0015,458.41,purchase,Walmart,Bill payment
+TXN-000375,2025-10-06 22:00:00,ACC-0009,23.95,transfer,Netflix,Bill payment
+TXN-000376,2025-10-07 13:00:00,ACC-0019,17.18,transfer,Whole Foods,Refund processed
+TXN-000377,2025-10-08 11:00:00,ACC-0009,58.39,refund,Netflix,Subscription
+TXN-000378,2025-10-08 16:00:00,ACC-0003,70.76,transfer,Home Depot,Wire transfer
+TXN-000379,2025-10-09 04:00:00,ACC-0009,28.4,purchase,Target,ATM withdrawal
+TXN-000380,2025-10-10 08:00:00,ACC-0014,32.37,payment,Netflix,ATM withdrawal
+TXN-000381,2025-10-11 07:00:00,ACC-0019,35.05,purchase,Best Buy,Refund processed
+TXN-000382,2025-10-11 09:00:00,ACC-0007,6.18,transfer,Best Buy,Wire transfer
+TXN-000383,2025-10-11 14:00:00,ACC-0016,110.78,purchase,CVS Pharmacy,Refund processed
+TXN-000384,2025-10-12 17:00:00,ACC-0016,6.11,deposit,Shell Gas,ATM withdrawal
+TXN-000385,2025-10-13 23:00:00,ACC-0001,64.83,payment,Costco,Wire transfer
+TXN-000386,2025-10-14 09:00:00,ACC-0004,45.23,purchase,Walmart,Cash deposit
+TXN-000387,2025-10-15 04:00:00,ACC-0004,9.05,refund,Apple Store,Subscription
+TXN-000388,2025-10-15 05:00:00,ACC-0007,6.79,purchase,DoorDash,Bill payment
+TXN-000389,2025-10-15 17:00:00,ACC-0008,42.66,payment,Target,In-store purchase
+TXN-000390,2025-10-15 22:00:00,ACC-0017,19.66,deposit,DoorDash,Subscription
+TXN-000391,2025-10-17 02:00:00,ACC-0005,60.41,refund,CVS Pharmacy,Cash deposit
+TXN-000392,2025-10-17 02:00:00,ACC-0007,127.98,purchase,Apple Store,ATM withdrawal
+TXN-000393,2025-10-17 08:00:00,ACC-0020,7.13,payment,CVS Pharmacy,Cash deposit
+TXN-000394,2025-10-17 13:00:00,ACC-0020,15945.83,deposit,Unknown Vendor,Refund processed
+TXN-000395,2025-10-18 06:00:00,ACC-0004,17.69,purchase,Target,Wire transfer
+TXN-000396,2025-10-18 11:00:00,ACC-0006,30.98,refund,Target,Bill payment
+TXN-000397,2025-10-19 20:00:00,ACC-0007,81.98,purchase,Walmart,Peer transfer
+TXN-000398,2025-10-20 14:00:00,ACC-0018,59.58,refund,DoorDash,Refund processed
+TXN-000399,2025-10-20 19:00:00,ACC-0005,205.97,purchase,Best Buy,Subscription
+TXN-000400,2025-10-21 03:00:00,ACC-0020,149.44,deposit,Amazon,Refund processed
+TXN-000401,2025-10-21 09:00:00,ACC-0003,17.68,transfer,DoorDash,Subscription
+TXN-000402,2025-10-22 00:00:00,ACC-0007,88.93,purchase,Uber,Peer transfer
+TXN-000403,2025-10-22 23:00:00,ACC-0014,41.19,purchase,CVS Pharmacy,Online purchase
+TXN-000404,2025-10-23 18:00:00,ACC-0007,67.47,purchase,Uber,Bill payment
+TXN-000405,2025-10-23 19:00:00,ACC-0005,10.6,transfer,Target,In-store purchase
+TXN-000406,2025-10-24 21:00:00,ACC-0005,116.61,purchase,Amazon,Cash deposit
+TXN-000407,2025-10-26 06:00:00,ACC-0002,29.51,withdrawal,Starbucks,Online purchase
+TXN-000408,2025-10-26 12:00:00,ACC-0006,35.04,purchase,Apple Store,Refund processed
+TXN-000409,2025-10-27 10:00:00,ACC-0015,45.87,purchase,Shell Gas,Cash deposit
+TXN-000410,2025-10-27 16:00:00,ACC-0010,7.74,deposit,Amazon,Online purchase
+TXN-000411,2025-10-28 06:00:00,ACC-0007,14.3,purchase,Unknown Vendor,Wire transfer
+TXN-000412,2025-10-28 08:00:00,ACC-0005,15098.87,payment,Shell Gas,Wire transfer
+TXN-000413,2025-10-28 15:00:00,ACC-0001,37.63,refund,Whole Foods,Cash deposit
+TXN-000414,2025-10-29 17:00:00,ACC-0013,247.58,withdrawal,DoorDash,Subscription
+TXN-000415,2025-10-30 05:00:00,ACC-0018,25.1,withdrawal,DoorDash,Subscription
+TXN-000416,2025-10-30 18:00:00,ACC-0013,52.26,refund,Shell Gas,Refund processed
+TXN-000417,2025-10-30 22:00:00,ACC-0018,34.55,purchase,Costco,Online purchase
+TXN-000418,2025-10-31 08:00:00,ACC-0005,117.93,purchase,Apple Store,Online purchase
+TXN-000419,2025-11-02 10:00:00,ACC-0013,207.57,purchase,Unknown Vendor,Cash deposit
+TXN-000420,2025-11-02 19:00:00,ACC-0004,11.0,deposit,Amazon,ATM withdrawal
+TXN-000421,2025-11-02 23:00:00,ACC-0017,17.25,purchase,Starbucks,Wire transfer
+TXN-000422,2025-11-03 13:00:00,ACC-0003,13.32,withdrawal,Target,Online purchase
+TXN-000423,2025-11-04 17:00:00,ACC-0017,6.12,payment,Walmart,Cash deposit
+TXN-000424,2025-11-04 22:00:00,ACC-0011,6.32,refund,Unknown Vendor,Peer transfer
+TXN-000425,2025-11-05 00:00:00,ACC-0020,65.68,transfer,DoorDash,In-store purchase
+TXN-000426,2025-11-05 00:00:00,ACC-0004,45.03,purchase,Uber,Peer transfer
+TXN-000427,2025-11-05 08:00:00,ACC-0002,19.43,refund,Apple Store,Bill payment
+TXN-000428,2025-11-05 08:00:00,ACC-0020,13.02,withdrawal,Walmart,Refund processed
+TXN-000429,2025-11-05 12:00:00,ACC-0016,39.67,purchase,CVS Pharmacy,Online purchase
+TXN-000430,2025-11-05 16:00:00,ACC-0018,2.09,purchase,CVS Pharmacy,Bill payment
+TXN-000431,2025-11-06 05:00:00,ACC-0008,90.08,payment,Starbucks,Bill payment
+TXN-000432,2025-11-07 15:00:00,ACC-0003,15.65,withdrawal,CVS Pharmacy,Cash deposit
+TXN-000433,2025-11-09 21:00:00,ACC-0009,189.44,refund,Unknown Vendor,Online purchase
+TXN-000434,2025-11-10 01:00:00,ACC-0020,188.93,refund,Netflix,In-store purchase
+TXN-000435,2025-11-10 14:00:00,ACC-0006,314.63,withdrawal,Home Depot,Cash deposit
+TXN-000436,2025-11-11 07:00:00,ACC-0010,17.8,transfer,Target,Cash deposit
+TXN-000437,2025-11-11 18:00:00,ACC-0010,10.25,transfer,DoorDash,Refund processed
+TXN-000438,2025-11-11 19:00:00,ACC-0013,152.3,purchase,Target,Refund processed
+TXN-000439,2025-11-12 00:00:00,ACC-0017,31.77,transfer,CVS Pharmacy,Wire transfer
+TXN-000440,2025-11-12 00:00:00,ACC-0009,59.86,deposit,Costco,Wire transfer
+TXN-000441,2025-11-12 14:00:00,ACC-0017,62.54,withdrawal,Whole Foods,Subscription
+TXN-000442,2025-11-13 03:00:00,ACC-0009,13.36,refund,Whole Foods,ATM withdrawal
+TXN-000443,2025-11-14 21:00:00,ACC-0009,94.33,transfer,Walmart,Online purchase
+TXN-000444,2025-11-15 19:00:00,ACC-0001,23.81,withdrawal,Whole Foods,Online purchase
+TXN-000445,2025-11-16 12:00:00,ACC-0002,147.72,withdrawal,Whole Foods,Bill payment
+TXN-000446,2025-11-16 23:00:00,ACC-0016,57.46,withdrawal,Target,Online purchase
+TXN-000447,2025-11-17 03:00:00,ACC-0001,10.15,deposit,Home Depot,Online purchase
+TXN-000448,2025-11-18 17:00:00,ACC-0010,623.22,purchase,Netflix,ATM withdrawal
+TXN-000449,2025-11-18 19:00:00,ACC-0018,73.97,transfer,Walmart,Wire transfer
+TXN-000450,2025-11-19 06:00:00,ACC-0008,5.11,purchase,DoorDash,Wire transfer
+TXN-000451,2025-11-21 01:00:00,ACC-0011,13.86,purchase,Amazon,In-store purchase
+TXN-000452,2025-11-22 05:00:00,ACC-0002,13.49,transfer,Uber,Online purchase
+TXN-000453,2025-11-22 06:00:00,ACC-0008,8.73,withdrawal,Walmart,ATM withdrawal
+TXN-000454,2025-11-24 01:00:00,ACC-0008,233.77,payment,Best Buy,Wire transfer
+TXN-000455,2025-11-24 10:00:00,ACC-0017,17.33,withdrawal,Costco,ATM withdrawal
+TXN-000456,2025-11-24 12:00:00,ACC-0015,82.19,deposit,Netflix,Peer transfer
+TXN-000457,2025-11-24 21:00:00,ACC-0017,37.76,transfer,Costco,Online purchase
+TXN-000458,2025-11-25 20:00:00,ACC-0013,89.59,withdrawal,Walmart,In-store purchase
+TXN-000459,2025-11-26 20:00:00,ACC-0019,11.74,purchase,Walmart,Bill payment
+TXN-000460,2025-11-29 19:00:00,ACC-0005,48.09,purchase,Best Buy,Wire transfer
+TXN-000461,2025-11-29 21:00:00,ACC-0012,22.39,purchase,Whole Foods,Peer transfer
+TXN-000462,2025-11-30 00:00:00,ACC-0001,36.34,transfer,DoorDash,ATM withdrawal
+TXN-000463,2025-11-30 02:00:00,ACC-0005,61.39,purchase,Unknown Vendor,Refund processed
+TXN-000464,2025-11-30 04:00:00,ACC-0008,77.91,purchase,Unknown Vendor,Cash deposit
+TXN-000465,2025-11-30 10:00:00,ACC-0013,3.8,purchase,Costco,Online purchase
+TXN-000466,2025-11-30 12:00:00,ACC-0008,31.75,payment,Walmart,Online purchase
+TXN-000467,2025-11-30 14:00:00,ACC-0011,33.86,purchase,Uber,Peer transfer
+TXN-000468,2025-11-30 18:00:00,ACC-0001,38.26,transfer,Target,ATM withdrawal
+TXN-000469,2025-12-02 10:00:00,ACC-0013,6.6,purchase,DoorDash,Subscription
+TXN-000470,2025-12-03 18:00:00,ACC-0019,26.56,withdrawal,Uber,Online purchase
+TXN-000471,2025-12-04 08:00:00,ACC-0003,33.62,purchase,CVS Pharmacy,Subscription
+TXN-000472,2025-12-04 22:00:00,ACC-0017,51.41,purchase,DoorDash,Refund processed
+TXN-000473,2025-12-05 08:00:00,ACC-0005,32.39,transfer,CVS Pharmacy,Peer transfer
+TXN-000474,2025-12-05 18:00:00,ACC-0020,13.25,purchase,Uber,ATM withdrawal
+TXN-000475,2025-12-06 18:00:00,ACC-0008,94.19,purchase,Home Depot,ATM withdrawal
+TXN-000476,2025-12-06 19:00:00,ACC-0014,136.36,purchase,Netflix,Cash deposit
+TXN-000477,2025-12-07 04:00:00,ACC-0004,16.13,purchase,Whole Foods,Wire transfer
+TXN-000478,2025-12-07 13:00:00,ACC-0011,3.92,purchase,Uber,Wire transfer
+TXN-000479,2025-12-09 00:00:00,ACC-0020,92.68,purchase,Shell Gas,Bill payment
+TXN-000480,2025-12-09 18:00:00,ACC-0015,199.39,refund,Uber,In-store purchase
+TXN-000481,2025-12-13 02:00:00,ACC-0019,80.8,withdrawal,Amazon,Peer transfer
+TXN-000482,2025-12-13 04:00:00,ACC-0007,13.08,transfer,Amazon,Refund processed
+TXN-000483,2025-12-13 07:00:00,ACC-0019,89.69,purchase,Apple Store,ATM withdrawal
+TXN-000484,2025-12-13 15:00:00,ACC-0019,70.73,payment,CVS Pharmacy,Cash deposit
+TXN-000485,2025-12-13 18:00:00,ACC-0011,20.29,purchase,Shell Gas,Subscription
+TXN-000486,2025-12-14 07:00:00,ACC-0005,16.64,purchase,Whole Foods,Peer transfer
+TXN-000487,2025-12-14 10:00:00,ACC-0005,25.46,withdrawal,Shell Gas,Bill payment
+TXN-000488,2025-12-15 00:00:00,ACC-0008,17.53,purchase,Target,Peer transfer
+TXN-000489,2025-12-16 16:00:00,ACC-0010,271.16,purchase,Shell Gas,Bill payment
+TXN-000490,2025-12-18 09:00:00,ACC-0006,53.46,transfer,Target,ATM withdrawal
+TXN-000491,2025-12-18 21:00:00,ACC-0015,36.09,refund,Apple Store,In-store purchase
+TXN-000492,2025-12-22 07:00:00,ACC-0016,47.91,transfer,Apple Store,Bill payment
+TXN-000493,2025-12-22 09:00:00,ACC-0017,32.17,deposit,Netflix,ATM withdrawal
+TXN-000494,2025-12-24 03:00:00,ACC-0008,77.78,payment,Unknown Vendor,ATM withdrawal
+TXN-000495,2025-12-28 02:00:00,ACC-0008,48.98,purchase,Amazon,In-store purchase
+TXN-000496,2025-12-28 16:00:00,ACC-0009,63.22,purchase,Uber,Wire transfer
+TXN-000497,2025-12-28 20:00:00,ACC-0002,35.91,purchase,Uber,Peer transfer
+TXN-000498,2025-12-30 04:00:00,ACC-0015,9.2,transfer,CVS Pharmacy,Online purchase
+TXN-000499,2025-12-31 18:00:00,ACC-0018,7.44,transfer,Best Buy,Online purchase
+TXN-000500,2025-12-31 19:00:00,ACC-0003,146.26,payment,Best Buy,Subscription
