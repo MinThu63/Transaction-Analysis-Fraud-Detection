@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { Upload, FileSpreadsheet, FileText } from "lucide-react";
+import { API_BASE } from "../api";
 
 interface Props {
   onUpload: (file: File) => void;
@@ -49,14 +50,14 @@ export default function UploadSection({ onUpload }: Props) {
           Download a pre-built dataset with 500 realistic transactions including outliers, multiple accounts, and varied merchants — perfect for exploring the dashboard.
         </p>
         <div className="sample-buttons">
-          <a href="/api/sample/xlsx" download className="btn btn-secondary sample-btn">
+          <a href={`${API_BASE}/api/sample/xlsx`} download className="btn btn-secondary sample-btn">
             <FileSpreadsheet size={18} />
             <div>
               <span className="sample-btn-label">Excel File</span>
               <span className="sample-btn-sub">sample_transactions.xlsx</span>
             </div>
           </a>
-          <a href="/api/sample/csv" download className="btn btn-secondary sample-btn">
+          <a href={`${API_BASE}/api/sample/csv`} download className="btn btn-secondary sample-btn">
             <FileText size={18} />
             <div>
               <span className="sample-btn-label">CSV File</span>

@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Sun, Moon, Shield } from "lucide-react";
 import type { AnalysisResult, UploadResult, ColumnMapping, Filters } from "./types";
+import { API_BASE } from "./api";
 import UploadSection from "./components/UploadSection";
 import MappingSection from "./components/MappingSection";
 import Dashboard from "./components/Dashboard";
@@ -42,7 +43,7 @@ export default function App() {
     const form = new FormData();
     form.append("file", file);
     try {
-      const res = await fetch("/api/upload", { method: "POST", body: form });
+      const res = await fetch(`${API_BASE}/api/upload`, { method: "POST", body: form });
       const data: UploadResult = await res.json();
       if (data.error) {
         setError(data.error);
@@ -65,7 +66,7 @@ export default function App() {
     const form = new FormData();
     form.append("body", JSON.stringify({ ...mapping, ...filters }));
     try {
-      const res = await fetch("/api/analyze", { method: "POST", body: form });
+      const res = await fetch(`${API_BASE}/api/analyze`, { method: "POST", body: form });
       const data = await res.json();
       if (data.error) {
         setError(data.error);
@@ -88,10 +89,10 @@ export default function App() {
         <div className="header-actions">
           {result && (
             <>
-              <a href="/api/download-flagged" className="btn btn-secondary" download>
+              <a href={`${API_BASE}/api/download-flagged`} className="btn btn-secondary" download>
                 Export Flagged
               </a>
-              <a href="/api/download-full" className="btn btn-secondary" download>
+              <a href={`${API_BASE}/api/download-full`} className="btn btn-secondary" download>
                 Export Full
               </a>
             </>
