@@ -223,6 +223,7 @@ npm run dev                     # starts dev server on http://localhost:5173
 
 ## Screenshots
 
+  <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/578b6ace-45eb-4805-8822-702effdba1d6" />
 
 > <img width="2559" height="1141" alt="image" src="https://github.com/user-attachments/assets/1e61f264-8d28-4b3e-b600-52d303810f72" />
   <img width="2559" height="1109" alt="image" src="https://github.com/user-attachments/assets/ac5177cf-d869-49b9-a175-3d9f49c30178" />
